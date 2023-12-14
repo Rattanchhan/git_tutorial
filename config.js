@@ -1,2 +1,2 @@
 console.log("config.js");
-console.log("version1 restore");
+console.log("version12");
